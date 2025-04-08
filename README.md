@@ -6,7 +6,7 @@ This is a personal portfolio website showcasing my work and skills as a **Senior
 
 You can view my live portfolio here:
 
-[Portfolio Demo](https://yourusername.github.io/shiran-portfolio/)  
+[Portfolio Demo](https://shirank90.github.io/shiran-portfolio/)  
 
 
 ## Features
@@ -30,4 +30,4 @@ You can view my live portfolio here:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/shiran-portfolio.git
+   git clone https://shirank90.github.io/shiran-portfolio/
